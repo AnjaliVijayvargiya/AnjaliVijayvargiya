@@ -1,18 +1,13 @@
 ### Hi there 👋
 
 
-**AnjaliVijayvargiya** ![](https://komarev.com/ghpvc/?username=AnjaliVijayvargiya&color=blueviolet)
+### **AnjaliVijayvargiya** ![](https://komarev.com/ghpvc/?username=AnjaliVijayvargiya&color=blue)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as Project Associate on Agriculture domain @ IIT Ropar, Punjab.
+- 🌱 I’m currently learning Machine learning, Deep Learning, Django Web Framework.
+- 👯 I’m looking for "ML/AI Engineering" profile.
+- 💬 Ask me if you have any doubts/ 📫 How to reach me: vijayvargiyaanjali@gmail.com
+- 😄 Fun fact: I am shy but know how to showcase my skills.
 
 
 (<img src="https://media3.giphy.com/media/nS72tGo8VX9Yipyptr/giphy.gif?cid=ecf05e47wz9nnuufxz44n96224r2obcho8lh6zvvwnqhk43i&rid=giphy.gif" width="150">
@@ -23,4 +18,3 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliVijayvargiya&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AnjaliVijayvargiya&count_private=true&theme=tokyonight&showicons=true)]()
-
